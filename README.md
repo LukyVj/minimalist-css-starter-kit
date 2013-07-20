@@ -1,5 +1,6 @@
-minimalist-css-starter-kit
+<a href="http://dev.web-gate.fr/minimalist-css-starter-kit/">minimalist-css-starter-kit</a>
 ==========================
+Demo : http://dev.web-gate.fr/minimalist-css-starter-kit/
 
 Its a style that you can directly upload to your pages/sites to display content in a minimalistic way.
 
