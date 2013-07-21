@@ -1,0 +1,8 @@
+@media screen and (max-width:680px){
+	.m--body *{
+		display: block !important;
+		float: left  !important;
+		width: 90%  !important;
+		margin: 5%  !important;
+	}
+}
